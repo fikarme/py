@@ -13,7 +13,7 @@ def find_array(lst, searched):
             return 1
     return 0
 
-def generate_specific_random_triplets(num_iterations=6):
+def generate_specific_random_triplets(num_iterations=50):
     numbers = [1, 3, 5]
     written_triplets = []
     pair_counts = defaultdict(int)

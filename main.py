@@ -1,4 +1,4 @@
-ˀimport random
+import random
 from math import factorial
 
 def get_random_triplets(numbers):
